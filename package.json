@@ -1,6 +1,6 @@
 {
   "name": "@togtokh.dev/mbank",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "M-Bank (mpay) payment gateway client for Node.js & TypeScript — token auth, merchant invoice, deeplink, QR invoice, inquiry, reverse and user info.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
